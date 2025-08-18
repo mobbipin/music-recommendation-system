@@ -174,5 +174,59 @@
     "user_preferences": {
       "genre": "Bollywood"
     }
+  },
+  {
+    "song_id": "34",
+    "feedback": "like",
+    "timestamp": 1753636389,
+    "user_preferences": {
+      "genre": "acoustic pop",
+      "artist": "3OH!3"
+    }
+  },
+  {
+    "song_id": "28",
+    "feedback": "dislike",
+    "timestamp": 1753636391,
+    "user_preferences": {
+      "genre": "acoustic pop",
+      "artist": "3OH!3"
+    }
+  },
+  {
+    "song_id": "34",
+    "feedback": "like",
+    "timestamp": 1753638355,
+    "user_preferences": {
+      "genre": "belgian edm",
+      "artist": "Avicii"
+    }
+  },
+  {
+    "song_id": "28",
+    "feedback": "dislike",
+    "timestamp": 1753638356,
+    "user_preferences": {
+      "genre": "belgian edm",
+      "artist": "Avicii"
+    }
+  },
+  {
+    "song_id": "23",
+    "feedback": "like",
+    "timestamp": 1753638368,
+    "user_preferences": {
+      "genre": "belgian edm",
+      "artist": "Avicii"
+    }
+  },
+  {
+    "song_id": "69",
+    "feedback": "dislike",
+    "timestamp": 1753638369,
+    "user_preferences": {
+      "genre": "belgian edm",
+      "artist": "Avicii"
+    }
   }
 ]
